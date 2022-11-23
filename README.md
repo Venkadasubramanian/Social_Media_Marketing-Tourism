@@ -24,5 +24,3 @@ The advertisements on the digital platform are a bit expensive; hence, you need 
 - travelling_network_rating : Does user have close friends who also like travelling. 1 is highs and 4 is lowest
 - Adult_flag  : Weather the customer is adult or not
 - Daily_Avg_mins_spend_on_traveling_page  : Average time spend on the company page by user on daily basis
-# Social_Media_Marketing-Tourism
-# Social_Media_Marketing-Tourism
